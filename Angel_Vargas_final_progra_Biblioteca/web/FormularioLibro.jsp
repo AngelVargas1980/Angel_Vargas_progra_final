@@ -39,15 +39,15 @@
           </li>
           
           <li class="nav-item active">
-              <a class="nav-link" aria-current="page" href="FormularioLibro.jsp">Registro Libro</a>
+              <a class="nav-link" aria-current="page" href="FormularioLibro.jsp">Registro Libros</a>
           </li>
 
           <li class="nav-item active">
-              <a class="nav-link" aria-current="page" href="FormularioRegistro.jsp">Registro Usuario</a>
+              <a class="nav-link" aria-current="page" href="FormularioRegistro.jsp">Registro Usuarios</a>
           </li> 
           
           <li class="nav-item active">
-              <a class="nav-link" aria-current="page" href="FormularioEgreso.jsp">Registro Egreso</a>
+              <a class="nav-link" aria-current="page" href="FormularioEgreso.jsp">Registro Egreso_Tipo de Pasta</a>
           </li>
 
         
