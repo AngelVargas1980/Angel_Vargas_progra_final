@@ -102,12 +102,12 @@
                 <input class="form-control" type="text" placeholder="ingresar nombre del libro" name="nombre" id="nombre" >
             </div>
             <div class="form-group">
-              <label for="exampleInputEmail1">Tipo de pasta</label>
+              <label for="exampleInputEmail1">Autor</label>
               <input type="email" class="form-control"  aria-describedby="emailHelp" name="correo" id="correo"  >
               <small id="emailHelp" class="form-text text-muted"></small>
             </div>
             <div class="form-group">
-              <label for="exampleInputPassword1">Autor</label>
+              <label for="exampleInputPassword1">Editorial</label>
               <input type="text" class="form-control"  name="direccion" id="direccion"  >
             </div>
             
@@ -117,8 +117,8 @@
             </div>
             
             <select class="form-control" name="opcion">
-                <option value="1">Cuentos 1</option>
-                <option value="2">Novelas 2</option>
+                <option value="1">Pasta dura 1</option>
+                <option value="2">Pasta blanda 2</option>
             </select><br>
             <%-- <button type="submit" class="btn btn-primary">Guardar</button> --%>
             <button type="button" onclick="enviarFormularioOpcion2()" class="btn btn-success">Guardar</button>
@@ -132,9 +132,9 @@
                         <tr>
                             <td>Codigo de Libro</td>
                             <td>Nombre del libro</td>
-                             <td>Autor</td>
+                             <td>Editorial</td>
                             <td>Fecha de lanzamiento</td>
-                            <td>Pasta </td>
+                            <td>Autor </td>
                             <td>Tipo</td>
                             <td>Acción</td>
                         </tr>

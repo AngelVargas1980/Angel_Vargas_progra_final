@@ -110,8 +110,8 @@
             </div>
             
             <select class="form-control" name="opcion">
-                <option value="1">Opción 1</option>
-                <option value="2">Opción 2</option>
+                <option value="1">Nuevo usuario 1</option>
+                <option value="2">Usuario registrado 2</option>
             </select><br>
             <%-- <button type="submit" class="btn btn-primary">Guardar</button> --%>
             <button type="button" onclick="enviarRegistroUsuario()" class="btn btn-success">Guardar</button>
