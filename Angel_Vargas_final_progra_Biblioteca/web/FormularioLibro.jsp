@@ -107,12 +107,12 @@
               <small id="emailHelp" class="form-text text-muted"></small>
             </div>
             <div class="form-group">
-              <label for="exampleInputPassword1">Editorial</label>
+              <label for="exampleInputPassword1">Autor</label>
               <input type="text" class="form-control"  name="direccion" id="direccion"  >
             </div>
             
              <div class="form-group">
-              <label for="exampleInputTelefono">Publicacion</label>
+              <label for="exampleInputTelefono">Fecha de lanzamiento</label>
               <input type="text" class="form-control"  name="telefono" id="telefono"  >
             </div>
             
@@ -132,8 +132,8 @@
                         <tr>
                             <td>Codigo de Libro</td>
                             <td>Nombre del libro</td>
-                             <td>Editorial</td>
-                            <td>Año Publicación</td>
+                             <td>Autor</td>
+                            <td>Fecha de lanzamiento</td>
                             <td>Pasta </td>
                             <td>Tipo</td>
                             <td>Acción</td>
